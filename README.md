@@ -1,0 +1,1 @@
+# Allegro-Sprite-Editor-Full-Version
