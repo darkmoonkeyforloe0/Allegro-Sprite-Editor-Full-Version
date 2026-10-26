@@ -241,4 +241,4 @@ This repository serves as the official landing page for Allegro Sprite Editor. T
 This README file has been tailored specifically for Allegro Sprite Editor, following all guidelines for SEO optimization, user engagement, and GitHub compliance while ensuring clarity in communication regarding the software's latest version and full functionality.
 
 ---
-**Last updated:** 2026-10-26 00:03:21 UTC
+**Last updated:** 2026-10-26 05:57:05 UTC
